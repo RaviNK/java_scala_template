@@ -2,9 +2,7 @@
 
 Requirements 
 
-IDE Intellij Idea
-Maven latest
-Java 7 
+Java 7+
+Scala 2.10+
+Maven (latest would help)
 
-
-[![Build Status](https://travis-ci.org/vishnu667/spark-example.svg)](https://travis-ci.org/vishnu667/spark-example)
